@@ -1,0 +1,15 @@
+# Python environment
+myenv/
+venv/
+.venv/
+__pycache__/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment variables / credentials
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
